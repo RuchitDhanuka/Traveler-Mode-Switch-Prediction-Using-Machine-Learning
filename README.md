@@ -3,9 +3,9 @@ The primary objective of this project is to understand the factors influencing a
 
 ## Dataset Description
 
-**Age_Group** : Age of the traveller
+- **Age_Group** : Age of the traveller
 
-**P_Use** : Primary use of transportation by the traveller
+- **P_Use** : Primary use of transportation by the traveller
 
 **Type** : By which type of transportation the traveller prefer to travel (public/private/both)
 
