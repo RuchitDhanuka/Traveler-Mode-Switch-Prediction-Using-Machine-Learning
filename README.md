@@ -1,7 +1,7 @@
 ## Project Overview
 The primary objective of this project is to understand the factors influencing a traveler's decision to switch their mode of transportation and predict the likelihood of this switch using various machine learning models. This can help in planning and improving transportation services.
 
-- ##**Dataset Description**
+## Dataset Description
 
 **Age_Group** : Age of the traveller
 
